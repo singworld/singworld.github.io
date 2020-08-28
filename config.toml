@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jianxiaoxin.com/"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "剑小新title"
