@@ -50,7 +50,8 @@ jobs:
     - name: Upload
       run: coscmd upload -rs --delete -f ./ / --ignore "./.git/*"
 
- Cloudbase:
+
+  Cloudbase:
     runs-on: ubuntu-latest
     needs: deploy
     name: Tencent Cloudbase Github Action Example
