@@ -7,3 +7,4 @@ dev
 *_bak
 *.old
 *.log
+*.lock
